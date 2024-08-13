@@ -16,7 +16,7 @@ int main() {
     system(command);
     return 0;
 }
-'''
+
 
 When this program is executed, the sprintf function concatenates the user input into the command string and the system() function then executes this command in a shell. Since the filename includes ;date, the shell interprets this as two separate commands:
 
