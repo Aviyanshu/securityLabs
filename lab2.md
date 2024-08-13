@@ -1,5 +1,7 @@
 # Lab 2
 
+**Note** : [Back to index](index.md)
+
 ## SUID Exploitation
 
 * Level 16
