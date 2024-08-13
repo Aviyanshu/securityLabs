@@ -2,7 +2,7 @@
 Command Injection and TOCTOU resilient program
 
 ## Command Injection Vulnerability
-'''
+'''c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -27,7 +27,7 @@ This causes the program to output the content of /etc/hosts and after displating
 
 ### Code without vulnerability
 Using the fopen() function.
-'''
+'''c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -54,7 +54,7 @@ int main() {
 
 ## TOCTOU Resilient Program
 The TOCTOU Program:
-'''
+'''c
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
