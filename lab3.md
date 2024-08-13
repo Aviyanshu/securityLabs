@@ -1,6 +1,6 @@
 # Lab 3
 
-##Intercepting Communications
+## Intercepting Communications
 
 * Level 1
 ```bash
