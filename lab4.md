@@ -2,7 +2,7 @@
 
 ## Crytopals SET 1
 
-**Note** Images for cryptopals solutions are in the images folder. [Click here.](/images)
+**Note** Images for cryptopals solutions are in the [images](/images) folder.
 
 1. Convert HEX to base64
 ```python
